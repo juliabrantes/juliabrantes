@@ -1,21 +1,17 @@
-<!-- Banner personalizado -->
+````markdown
+<h1 align="center">✨ Hi, I'm Júlia! 🇧🇷 ✨</h1>
 
-<h1 align="center">✨ Hi, I'm Júlia! ✨</h1>
-
-<h3 align="center">Scrum Master Support | AI & Cybersecurity Learner</h3>
-
-<p align="center">
-  <img src="https://i.imgur.com/9f7QFOD.gif" width="250px" alt="cyber-girl">
-</p>
+<h3 align="center">Systems Information Student | Project Management & Tech Learner</h3>
 
 ---
 
 ## 🔮 About Me
 
-🌟 Systems Information student
-🛠️ Scrum Master Support @ EDAG
-🔐 Learning **AI, Ethical Hacking, Web Security & Automation**
-🚀 Buscando unir **agilidade + tecnologia + segurança**
+🌟 Brazilian tech student passionate about innovation  
+🎓 Systems Information student  
+🛠️ Project Management Intern / Scrum Master Support  
+🐍 Learning and practicing **Python, Linux, Git and GitHub**  
+🚀 Interested in connecting **agility, technology and continuous improvement**
 
 ---
 
@@ -23,63 +19,56 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 🧩 Mini Code Snippet (Only for Style 😄)
+## 🧩 Mini Code Snippet
 
 ```python
 class Julia:
     def __init__(self):
-        self.role = "Scrum Master Support"
-        self.learning = ["AI", "Cybersecurity", "Ethical Hacking", "Web Dev"]
+        self.country = "Brazil 🇧🇷"
+        self.role = "Project Management Intern"
+        self.focus = ["Python", "Linux", "Git", "GitHub"]
+        self.mindset = "Always learning and improving"
 
     def grow(self):
-        return "Always learning. Always improving."
+        return "Building knowledge one commit at a time."
 
 me = Julia()
 print(me.grow())
-```
+````
 
 ---
 
-## 📌 Featured Projects (to pin later)
+## 📌 Projects and Studies
 
-* 🔹 SEC-Lab — Scripts de segurança e estudos de vulnerabilidades
-* 🔹 Web Portfolio simples em Flask
-* 🔹 Automação com Python para agilizar tarefas
+* 🔹 Python scripts for task automation
+* 🔹 Linux command line practice
+* 🔹 Git and GitHub version control studies
+* 🔹 Personal projects focused on learning and improvement
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=julia&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia&layout=compact&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juliabrantes&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabrantes&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## ☕ Activity Graph
+## ☕ Agile Touch
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julia&theme=tokyo-night"/>
-</p>
-
----
-
-## 🛰️ Agile Touch
-
-```
+```text
 ┌─────────────────────────────────────────┐
-│   “Good teams deliver. Great teams       │
-│     communicate, inspect and adapt.”     │
+│   Good teams deliver. Great teams        │
+│   communicate, inspect and adapt.        │
 └─────────────────────────────────────────┘
 ```
 
@@ -87,9 +76,13 @@ print(me.grow())
 
 ## 📫 Connect with me
 
-🌐 LinkedIn:
-[https://linkedin.com/in/júlia-abrantes-silva-749002323](https://linkedin.com/in/júlia-abrantes-silva-749002323)
+<p align="center">
+  <a href="https://linkedin.com/in/júlia-abrantes-silva-749002323">
+    <img src="https://img.shields.io/badge/LinkedIn-Júlia%20Abrantes%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<h3 align="center">✨ Always learning. Always building. ✨</h3>
+<h3 align="center">✨ From Brazil to the world — always learning, always building. 🇧🇷 ✨</h3>
+```
