@@ -6,11 +6,11 @@
 
 ## 🔮 About Me
 
-🌟 Brazilian tech student passionate about innovation
-🎓 Systems Information student
-🛠️ Project Management Intern / Scrum Master Support
-🐍 Learning and practicing **Python, Linux, Git and GitHub**
-🚀 Interested in connecting **agility, technology and continuous improvement**
+* 🌟 Brazilian tech student passionate about innovation
+* 🎓 Systems Information student
+* 🛠️ Project Management Intern / Scrum Master Support
+* 🐍 Learning and practicing **Python, Linux, Git and GitHub**
+* 🚀 Interested in connecting **agility, technology and continuous improvement**
 
 ---
 
@@ -64,7 +64,7 @@ print(me.grow())
 
 ## ☕ Agile Touch
 
-Good teams deliver. Great teams communicate, inspect and adapt.
+> Good teams deliver. Great teams communicate, inspect and adapt.
 
 ---
 
