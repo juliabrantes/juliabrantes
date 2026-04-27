@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">✨ Hi, I'm Júlia! 🇧🇷 ✨</h1>
 
 <h3 align="center">Systems Information Student | Project Management & Tech Learner</h3>
@@ -7,10 +6,10 @@
 
 ## 🔮 About Me
 
-🌟 Brazilian tech student passionate about innovation  
-🎓 Systems Information student  
-🛠️ Project Management Intern / Scrum Master Support  
-🐍 Learning and practicing **Python, Linux, Git and GitHub**  
+🌟 Brazilian tech student passionate about innovation
+🎓 Systems Information student
+🛠️ Project Management Intern / Scrum Master Support
+🐍 Learning and practicing **Python, Linux, Git and GitHub**
 🚀 Interested in connecting **agility, technology and continuous improvement**
 
 ---
@@ -41,7 +40,7 @@ class Julia:
 
 me = Julia()
 print(me.grow())
-````
+```
 
 ---
 
@@ -65,12 +64,7 @@ print(me.grow())
 
 ## ☕ Agile Touch
 
-```text
-┌─────────────────────────────────────────┐
-│   Good teams deliver. Great teams        │
-│   communicate, inspect and adapt.        │
-└─────────────────────────────────────────┘
-```
+Good teams deliver. Great teams communicate, inspect and adapt.
 
 ---
 
@@ -85,4 +79,3 @@ print(me.grow())
 ---
 
 <h3 align="center">✨ From Brazil to the world — always learning, always building. 🇧🇷 ✨</h3>
-```
