@@ -119,15 +119,6 @@ print(me.mindset())
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juliabrantes&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabrantes&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## ☕ Motto
 
 > Turning data into intelligent solutions.
